@@ -25,6 +25,15 @@
 6. **Responsive Design**:
    - Fully responsive layout optimized for desktops, tablets, and mobile devices.
 
+7. **Error Handling**:
+   - Graceful error handling when the API fails or returns no data.
+
+8. **Loading Indicators**:
+   - Displays loaders to enhance the user experience while data is being fetched.
+
+9. **Modular Codebase**:
+   - Well-structured and reusable components for easy scalability.
+
 ---
 
 ## Tech Stack
@@ -121,12 +130,33 @@ To deploy your own version:
 - Implement a backend server for order management.
 - Improve search functionality with filters and sorting.
 - Add animations for smoother user interactions.
+- Incorporate real-time stock updates using WebSockets.
+- Enhance SEO performance for better visibility on search engines.
+- Implement multi-language support for global reach.
+- Add user reviews and ratings for products.
+- Create a dark mode for better accessibility.
 
 ---
 
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request. For major changes, open an issue first to discuss your ideas.
+
+### Steps to Contribute:
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request on GitHub.
 
 ---
 
@@ -141,4 +171,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 For any questions or suggestions, please contact:
 - **Name**: Aman Dwivedi
 - **Email**: [Your Email Address]
+
+### Connect with Me:
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **GitHub**: [Your GitHub Profile](#)
 
